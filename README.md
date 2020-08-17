@@ -1,6 +1,7 @@
 # UserRecon v1.0
 # Author: @linux_choice
-# https://github.com/thelinuxchoice/userrecon
+# Author has deleted his GitHub repo then we just re-uploaded this.
+# https://www.kalilinux.in/2019/07/userrecon-find-social-media-accounts.html
 
 Find usernames across over 75 social networks
 This is useful if you are running an investigation to determine the usage of the same username on different social networks.
